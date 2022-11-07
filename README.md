@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dre Part
 - 👀 I’m interested in css,Js, html
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on html project 
+- 🌱 I’m a front end web developer 
 - 📫 How to reach me Twitter @PartDela
 
 <!---
